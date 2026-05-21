@@ -1,4 +1,4 @@
-API_SMS       = "64f9305e1007965b4bc08e16A5ecAAf0"
+API_SMS       = "your token"
 
 LDPLAYER_PATH = r"C:\LDPlayer\LDPlayer9"
 TG_PACKAGE    = "org.telegram.messenger.web"
